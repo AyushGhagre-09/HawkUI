@@ -3,7 +3,7 @@ node
     stage("Hello")
     {
      echo "hello from jenkins file"
-       currentBuild.result="UNSTABLE"
+      sleep 30
     }
 
      // For the 'fix' branch
