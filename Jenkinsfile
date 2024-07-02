@@ -3,7 +3,7 @@ node
     stage("Hello")
     {
      echo "hello from jenkins file"
-     
+     aaa
     }
 
      // For the 'fix' branch
